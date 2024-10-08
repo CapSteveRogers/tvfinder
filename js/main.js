@@ -1,6 +1,7 @@
 //Getting elements
 
 let elCardUl = document.querySelector('.cards'),
+elnum = 0, 
     elMainSection = document.querySelector('.main_section'),
     elSearchButton = document.querySelector('.search_button'),
     // elSearchSection = document.querySelector('.search-section_active'),
